@@ -18,3 +18,12 @@ Some optional functionality you can implement:
 Some of the things we will review from your challenge:
 1. Working Software. We will first review if your application is working as it is specified in this challenge.
 2. Code cleanness. We expect you to write clean code that is understandable and maintainable.
+
+
+Videos
+
+Code
+https://youtu.be/IwDGwjBCgQM
+
+Working
+https://youtu.be/-L5D1w4GwhI
