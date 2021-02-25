@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pokemonapipython",
+  "private_key_id": "83ebb5088725ff4e06482ddc4ca25c638901c493",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD1rju9l8KRv00s\n7Yyza1GKqCEriGgag/0fCGe7+vJGclCFPvVdjrtv7qUSJViILwt5d2UPuvhvBi45\nFv50/ZK6l9ucBIv6LTBm3XOChdZMgO3pNblZ5/IsPHcod5ziI6KZsMSwYU1+jwCD\nuTgYAFuYbfVVvcs8MaSL3ijgUqjQkYpqBRekyhuAXtDb2+VU2zFbgNKl1krfyRtX\nRW1ykCrlHzl1bUwu8bGfeq/L9ic+q4Yq2GmS8RNKQThH2SmuH1xE8hxI34oYkz0+\nkZReSdQfpPSkNwBmLO6yWHQCRbhTShDJ2xbCMyHDNxqeEONLi1kqds3CCyjtYynq\nd32y87fZAgMBAAECggEAMgVtDW+aQnGIRZcCOD+oBQqxYjsuMwPfpBNih5ATBwvc\nYBzO+WMHv8T/n/+xlFy7wdnw3jCLx5MjEyWe3nQIjWxA3vXACEpuGeuJyq/0T3RK\nvFpfaDJFCQOwoTElZJer0g3/JghRrmxwRuGNzbk47QKqWnA/snxLC91KRk4eKASr\n4XDgWcUrl20J0i3O8Jgofq5EGxHtycUx1d3ZTqm/3pMJQ4j2ydTt7wpAe9nRgFCM\nJQMSrXkT2mQ0OpEMoilvNteWCCiV5zTSomM/Odl+j1wHepsqliCI9K8CZf7iJt7q\nQfdjcOIFHSRQSom0iquV4pOUbeDTrWlT2FXVI+WYeQKBgQD8HfPIzOltWQaGKXhS\nXZyTL3hgYO9KjV0TfwO+Q76MQYwqoombrtDemj33xxMgVixiZitf487QwPx+n9ej\nNuPljlK0j+lSynqhe6DYMIeALBxJ4xyhKaiTc4pQ5YHHXh7/j/CryBWhi1AX1Y9W\nVNp8UM3s/OWbxTulWj+71Nu6BQKBgQD5dudTJceKXwI9m7WZTvVPEHB+I3FA9pdv\nfhdle2feigpf9RU9M0lgiEeAI8T8S88MLcACLoeGDNS/W9WuzvwgJzwr1xv9qDIl\nsM/+OPf9vCw5s7CNKRleG/55Hssr2hY4TK0abAnpo42KirDcOIXlYAGDqg/GYdqx\n1nO4vZHqxQKBgAUb1kTLYi+FDkzJqlaA7xtMavQJAtBP7QLoH/tLBCFzcpOql39A\nG5tnJLpQnmKZXGziBR78TsSMJJGsS4JTKmsMZ0ChaejzkWiUSL4YvaYrPqeAoqPh\nZDkYrkTVYbvYfGhRUl8ovsd3OzhAa5ckQQkj2ghjV4PAi2TeX0w/E/TBAoGBAJkn\nOa+fcxjtaWe/b8cWZZ5LvnSCd+ZlPeWSKPUBxWwnnWT6BzcShIsCP7tYungWZp/Y\nepgcTtGqkPaGf/KZWsq2q8dSgfnByD/BhIBUI1QgsZofSlXvlIZlc16S3DMo6hlY\nYbHmAFPzOFOFAD3Dadi/j05xGsw1iVlDCrqxj6LtAoGBAJoRdUhCLTfvvKiKWpcO\nTDeteg5XOMk9HSFOQMMHNDUunQMbtSLbDt9obSSsDyXGkmEjYDYjTFH38fRbcTMo\nc/eXO4+gse8bgtLz/z3L2VjOMQxvGlF8TLn1ABYM0CFWwx/H3JZEYAJ+jE0mA3Fw\nr2u4LgzHdjX0Yx0YT358lnlg\n-----END PRIVATE KEY-----\n",
+  "client_email": "cuentadeserviciookemonapipytho@pokemonapipython.iam.gserviceaccount.com",
+  "client_id": "102318224948536425743",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cuentadeserviciookemonapipytho%40pokemonapipython.iam.gserviceaccount.com"
+}
