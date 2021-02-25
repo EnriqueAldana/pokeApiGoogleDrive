@@ -30,13 +30,13 @@ https://youtu.be/-L5D1w4GwhI
 
 
 
-#Test the Script using Docker
+# Test the Script using Docker
 
 1. Building the Docker image: Put **docker build -t test-pokemon .** on your console ( include the last point as correct syntaxis.
 2. Checking the Docket image generated. Put **docker images** command on your console.
 3. Running the Docker image. Put **docker run test-pokemon** command on your console.
 
-##Results:
+## Results:
 
 You will see terminal out`put like this
 
